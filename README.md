@@ -1,11 +1,11 @@
-# Hello Page
+<!-- # Hello Page
 
 <img src="https://raw.githubusercontent.com/jlord/forkngo/gh-pages/badges/cobalt.png" width="200">
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.png) -->
 
 A so very simple personal site.
-
+<!-- 
 This is a [Fork-n-Go](http://jlord.github.io/forkngo) project, so fork to get started making your own.
 
 See the demo at [jlord.github.io/hello](http://jlord.github.io/hello).
@@ -52,3 +52,4 @@ There is another style option included within this repository. If you change the
 ```
 
 Then you'll get the other option! Commit your changes to make it live. Change the file called for back to `css/style2.css` to go back to the other.
+ -->
